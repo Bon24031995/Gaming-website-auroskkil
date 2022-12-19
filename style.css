@@ -1,0 +1,14 @@
+li a{
+    font-size:28px;
+    font-weight: 600;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: yellow;
+}
+a:hover{
+    color: seashell;
+}
+img{
+    height:580px;
+    width:auto;
+}
